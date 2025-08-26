@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kaan Bilgin</h1>
-<h3 align="center">Software Engineer with 2 years of hands-on experience in designing, implementing, and maintaining scalable and resilient systems.</h3>
+<h3 align="center">Software Engineer with 3 years of hands-on experience in designing, implementing, and maintaining scalable and resilient systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
